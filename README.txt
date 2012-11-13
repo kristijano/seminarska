@@ -1,0 +1,1 @@
+Za izrabotka na programata se koristese dev c++, a repozitorite bea kreirani preku gitbash komandna alatka.
